@@ -9,7 +9,7 @@ import {
 import HomePage from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-import MainLayout from './layouts/MainLayout';
+import MainLayout from './Layouts/MainLayout';
 import NotFound from './pages/PageNotFound';
 
 const App = () => {
